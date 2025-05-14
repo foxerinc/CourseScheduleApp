@@ -3,7 +3,8 @@
 **Course Schedule App** is an Android application designed to help users manage their daily class or course schedules more effectively. Built as part of the **Dicoding Dev Certification for Android (DCA) Preparation Course**, this app makes it easy for students or lifelong learners to organize their academic routines. 
 The app highlights the **next upcoming course** right on the Home Screen, and automatically reminds users of the day’s full schedule through **daily notifications at 6:00 AM**. From viewing the list of enrolled courses to checking course details or adding new subjects—everything is streamlined in a clean, intuitive interface.
 
-**[Watch Demo Video](https://drive.google.com/file/d/1Z4mGczDmBmkSJ4HE-x0XEZDuQrgz8ieF/view?usp=drive_link)**
+**[Watch Demo Video](https://drive.google.com/file/d/17tfooy1wjmS9rEZ3rsEvuteahZeNFn5Y/view?usp=drive_link)**
+
 
 ## Features
 - See your mearest course immediately on the Home Screen.
